@@ -2,7 +2,7 @@
 
 # Business Understanding 
 
-We have been hired by the Tanzanian government to help them create a model that can accurately predict if a water well is functioning or in need of repair. In the data frame we analyzed there were over 55,000 water wells with over 50 features describing each individual water well. We narrowed down some of the data so that there would be less noise in our models. We made six different predictive models and then chose our best model to make our predictions. 
+We have been hired by the Tanzanian government to help them create a model that can accurately predict if a water well is functioning or in need of repair. The data set is from Taarifa and Tanzanian Ministry of Water. In the data frame we analyzed there were over 55,000 water wells with over 50 features describing each individual water well. We narrowed down some of the data so that there would be less noise in our models. We made six different predictive models and then chose our best model to make our predictions. 
 
 # Data Understanding 
 
