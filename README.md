@@ -6,7 +6,7 @@ We have been hired by the Humanitarian Relief Co. to help them create a model th
 
 # Data Understanding 
 
-We got our dataset from Taarifa and Tanzanian Ministry of Water. which had over 50,000 different water wells. We got rid of the variables that we thought would not have an impact on predicting the functionality of water wells. Our main objective for our model was to minimize false positives, which is when our model predicts that a water well is functional but it actually is in need of maintenance. To process all of this information, we decided to go with an XG Boost model because it had the least amount of false positives compared to the other models. We prioritized increasing our precision score to reduce false positives. 
+We got our dataset from Taarifa and Tanzanian Ministry of Water. which had over 50,000 different water wells. We got rid of the variables that we thought would not have an impact on predicting the functionality of water wells. Our main objective for our model was to minimize false positives, which is when our model predicts that a water well is functional but it actually is in need of maintenance. To process all of this information, we decided to go with an XG Boost model because it had the least amount of false positives compared to the other models. We prioritized increasing our precision score to reduce false positives. We adjusted our thresholds to increase our precision while keeping the other scores at a reasonable value. 
 
 # Results 
 
