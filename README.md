@@ -2,7 +2,7 @@
 
 # Business Understanding 
 
-We have been hired by the Tanzanian government to help them create a model that can accurately predict if a water well is functioning or in need of repair.  In the data frame we analyzed there were over 55,000 water wells with over 50 features describing each individual water well. We narrowed down some of the data so that there would be less noise in our models. We made six different predictive models and then chose our best model, an XG Boost model, to make our predictions. Our goal is to reduce the amount of technicians sent to fix wells.
+We have been hired by the Humanitarian Relief Co. to help them create a model that can accurately predict if a water well is functioning or in need of repair.  In the data frame we analyzed there were over 55,000 water wells with over 50 features describing each individual water well. We narrowed down some of the data so that there would be less noise in our models. The features we focused on involved geographic location, population around the water well, and the year it was constructed. We made six different predictive models and then chose our best model, an XG Boost model, to make our predictions. Our goal is to reduce the amount of technicians sent to fix wells.
 
 # Data Understanding 
 
@@ -14,4 +14,4 @@ Our XG Boost model posted a precision score of 0.86 on the train data and .84 on
 
 # Future Analysis 
 
-If we had more time, we would work to make our model more accurate and also decrease the amount of false negatives. 
+If we had more time, we would work to make our model more accurate and also decrease the amount of false negatives. We want to make sure that the Humanitarian Relief Co. has a reliable model that will not miss any water wells and only report water wells that need maintenance. 
