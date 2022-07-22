@@ -1,3 +1,5 @@
+![tanzanian_water_pump]
+
 # Water-Well-Project
 
 # Business Understanding 
