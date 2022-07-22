@@ -1,4 +1,4 @@
-![tanzanian_water_pump]
+![tanzanian_water_pump](photo/tanzanian_water_pump.jpeg)
 
 # Water-Well-Project
 
