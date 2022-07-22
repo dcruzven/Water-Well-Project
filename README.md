@@ -10,7 +10,7 @@ We got our dataset from Taarifa and Tanzanian Ministry of Water. which had over 
 
 # Results 
 
-Our XG Boost model posted a precision score of 0.86 on the train data and .84 on the test data. Our accuracy score was .74 on the train data and .72 on the test data. Our final f1 score was .73 on the train data and .72 on the test data. Although our model does not excel in other metrics, it does an excellent job of reducing false positives while still being an effective model. 
+Our XG Boost model posted a precision score of 0.88 on the train data and .85 on the test data. Our accuracy score was .76 on the train data and .73 on the test data. Our final f1 score was .75 on the train data and .71 on the test data. Although our model does not excel in other metrics, it does an excellent job of reducing false positives while still being an effective model. 
 
 # Future Analysis 
 
