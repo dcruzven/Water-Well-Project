@@ -50,17 +50,17 @@ Contact: [Reed Martinson](mailto:prmartinson@gmail.com)
 ```
 Repository Structure:
 
-├── data                                     # files used in project
-├── notebooks                                # folder containing code/project notebooks
-	├── David                                # folder for data cleaning and modeling
-		├── Work_Notebook.ipynb              # data cleaning and understanding
-		└── models.ipynb                     # data modeling with results
-      	└── Reed                                      # folder for data cleaning and modeling
-		├── Water_Wells_Models.ipynb         # data modeling with results
-		└── Water_Wells_Notebooks.ipynb      # data cleaning and understanding
-├── photos                                   # photos used in project
-├── .gitignore                               # ignore files
-├── FinalNotebook.ipynb                      # final code/project notebook
-├── README.md                                # top-level README for reviewers of this project
-└── Tanzanian_Water_Wells_pres.pdf           # non-technical presentation slides
+├── data                                     	   # files used in project
+├── notebooks                                	   # folder containing code/project notebooks
+	├── David                                  # folder for data cleaning and modeling
+		├── Work_Notebook.ipynb            # data cleaning and understanding
+		└── models.ipynb                   # data modeling with results
+      	└── Reed                                   # folder for data cleaning and modeling
+		├── Water_Wells_Models.ipynb       # data modeling with results
+		└── Water_Wells_Notebooks.ipynb    # data cleaning and understanding
+├── photos                                   	   # photos used in project
+├── .gitignore                               	   # ignore files
+├── FinalNotebook.ipynb                      	   # final code/project notebook
+├── README.md                                	   # top-level README for reviewers of this project
+└── Tanzanian_Water_Wells_pres.pdf           	   # non-technical presentation slides
 ```
