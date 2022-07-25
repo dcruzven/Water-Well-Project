@@ -55,7 +55,7 @@ Repository Structure:
 	├── David                                # folder for data cleaning and modeling
 		├── Work_Notebook.ipynb              # data cleaning and understanding
 		└── models.ipynb                     # data modeling with results
-      └── Reed                               # folder for data cleaning and modeling
+      	└── Reed                                      # folder for data cleaning and modeling
 		├── Water_Wells_Models.ipynb         # data modeling with results
 		└── Water_Wells_Notebooks.ipynb      # data cleaning and understanding
 ├── photos                                   # photos used in project
